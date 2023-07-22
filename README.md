@@ -12,10 +12,17 @@ for more info ==> https://www.cs.toronto.edu/~kriz/cifar.html
 <br />
 
 
-<h2>Languages and IDE Used</h2>
+<h2>Languages and IDE and libraries Used</h2>
 
-- <b>Python</b> 
+- <b>Python</b>
 - <b>Pycharm</b>
+- <b>customtkinter</b>
+- <b>numpy</b>
+- <b>tkinter</b>
+- <b>cv2</b>
+- <b>matplotlib.pyplot</b>
+- <b>tensorflow</b>
+- <b>keras</b>
 
 <h2>Environments Used </h2>
 
