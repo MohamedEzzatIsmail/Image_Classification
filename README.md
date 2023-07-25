@@ -26,5 +26,4 @@ for more info ==> https://www.cs.toronto.edu/~kriz/cifar.html
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
-
+- <b>Windows 10</b>
